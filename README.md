@@ -1,22 +1,20 @@
 ## Hello, I'm lacolaco
 
-- Website: https://lacolaco.net
-- Twitter: https://twitter.com/laco2net
-- Discord: `lacolaco#4523`
+https://lacolaco.net
 
-### lacolaco as a Developer 💻
+### Where you can contact me
+
+- Bluesky: [@lacolaco.bsky.social](https://bsky.app/profile/lacolaco.bsky.social)
+- Misskey: [@lacolaco@misskey.io](https://misskey.io/@lacolaco)
+- Twitter: [@laco2net](https://twitter.com/laco2net)
+- Discord: `@lacolaco`
+
+### What I am working on
 
 - 🅰️ Google Developers Expert for Angular
 - 📚 Co-author of [JavaScript Primer](https://jsprimer.net/)
 - 🛠 Maintainer of [Angular 日本語ドキュメンテーション](https://angular.jp/)
 - 🗽 Organizer of [Angular Japan User Group](https://community.angular.jp/)
 - 📝 Blog: https://blog.lacolaco.net/
-- 📑 Scrapbox: https://scrapbox.io/lacolaco-engineering/
-
-### lacolaco as a Hobbyist ⭐️
-
-- ❤️ Pokemon Trainer
-- 🧑‍🎓 Learning Philosophy
-- 🏃🏼‍♂️ Speedrunner: https://www.speedrun.com/user/lacolaco
-- 📝 Blog: https://lacolaco.hatenablog.com/
 - 📑 Scrapbox: https://scrapbox.io/lacolaco/
+- and more on my several repositories
