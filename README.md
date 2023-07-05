@@ -7,6 +7,7 @@ https://lacolaco.net
 - Bluesky: [@lacolaco.bsky.social](https://bsky.app/profile/lacolaco.bsky.social)
 - Misskey: [@lacolaco@misskey.io](https://misskey.io/@lacolaco)
 - Twitter: [@laco2net](https://twitter.com/laco2net)
+- YouTube: [@lacolaco](https://www.youtube.com/@lacolaco)
 - Discord: `@lacolaco`
 
 ### What I am working on
